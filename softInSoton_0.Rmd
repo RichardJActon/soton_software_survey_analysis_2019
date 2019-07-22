@@ -39,7 +39,7 @@ params:
 
 ```{r libs}
 suppressPackageStartupMessages({
-	library(tidyverse)
+  library(tidyverse)
   library(plotly)
 })
 ```
